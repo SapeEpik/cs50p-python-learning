@@ -1,3 +1,5 @@
+# Simple program that'll greet a user
+
 name = input("What's your name? ").strip().title()
 parts = name.split()
 
